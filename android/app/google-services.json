@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970450613662",
+    "project_id": "sweepspot-9afed",
+    "storage_bucket": "sweepspot-9afed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970450613662:android:10913ce98f60e55b3a128f",
+        "android_client_info": {
+          "package_name": "com.example.sweepspot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7QtlpZnaoAgi-guaTek6ECouY9r5wY1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
